@@ -1,2 +1,2 @@
-# sendsms.pl
-Send SMS through Cellsynt
+# sendsms
+Send SMS 
