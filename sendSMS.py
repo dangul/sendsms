@@ -3,7 +3,7 @@
 # File name: sendSMS.py
 # Author: Daniel Gullin
 # Date created: 2016-10-19
-# Version: 0.1
+# Version: 0.2
 # License: GPL
 
 import logging
@@ -15,7 +15,7 @@ import re
 # File with msisdn
 file = "phoneNumbers.cfg"
 
-# If no source msisdn we use BallouDrift as default (max 11 car)
+# If no source msisdn we use xxx as default (max 11 car)
 default = "xxx"
 
 # Base64-encoded authorization (https://www.base64encode.org/)
